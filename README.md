@@ -2,13 +2,13 @@
 
 **Team 39:**
 
-Siddarth.D.Pai - PES2UG21CS925
-
 C Ujwal - PES2UG21CS131
 
 Charan S Gowda - PES2UG21CS140
 
 Thaksha Ganesh - PES2UG21CS575
+
+Siddarth.D.Pai - PES2UG21CS925
 
 ## Goal
 
