@@ -2,7 +2,7 @@
 
 ## Goal
 
-Design and build a distributed load-testing system that co-ordinates between  
+A distributed load-testing system that co-ordinates between  
 multiple driver nodes to run a highly concurrent, high-throughput load test on a  
 web server. This system will use Kafka as a communication service.
 
